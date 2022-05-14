@@ -1,0 +1,38 @@
+
+Motherboard
+	- ASUS TUF Z270 Mark 2 LGA1151 DDR4 HDMI DVI M.2 USB 3.1 Z270 ATX
+CPU
+	- Intel Core i5-7600 Kaby Lake Quad-Core 3.5 GHz LGA 1151 65W BX80677I57600 Desktop Processor
+Memory
+	- G.SKILL Ripjaws V Series 16GB 288-Pin DDR4 SDRAM DDR4 3200 (PC4 25600) Intel Z270 Platform Desktop Memory Model F4-3200C16S-16GVK X 4
+HDDs
+	- Intel® 256GB Solid State Drive - 256GB, Internal, SSD BOX, 600P, M.2 Form Factor, NVME, 3D TLC - SSDPEKKW256G7X1
+	- SAMSUNG 850 EVO 2.5" 1TB SATA III 3-D Vertical Internal Solid State Drive (SSD) MZ-75E1T0B/AM
+GPU
+	- MSI NVIDIA GeForce GTX 1050 Graphic Card - PCI Express 3.0 x16, 4GB GDDR5, 128-Bit, HDMI, DisplayPort, DL-DVI-D, 3x Multiple Monitor Support
+PSU
+	- Corsair RMx Series RM650x Power Supply - 650 Watt, 80 PLUS Gold Certified Fully Modular PSU
+Case
+	- Thermaltake V3 Black Edition Mid Tower Case - ATX, Micro ATX, 120mm LED Fan, 4x 5.25 Bays, 5x 3.5 Bays
+USB CD
+	- LG Ultra Slim External DVDRW Disc Drive - 8X DVD-R Writing Speed, Buffer: 0.75MB
+
+
+Samsung 970 EVO 1TB - NVMe PCIe M.2 2280 SSD (MZ-V7E1T0BW) 
+https://www.amazon.com/dp/B07BN217QG/ref=emc_b_5_t?th=1
+
+Audio:
+
+Schiit Audio Modi2 DAC
+Valhalla2 Tube Amplifier
+Beyerdynamic DT770 250ohm headphones
+
+DAC FiiO E10K USB DAC and Headphone Amplifier
+Headphones BeyerDynamic DT 990 PRO 600Ohm
+
+Massdrop x Sennheiser HD 6XX Headphones
+
+ATOM AMP
+https://jdslabs.com/product/atom-amp/
+
+
